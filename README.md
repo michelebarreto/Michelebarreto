@@ -9,4 +9,3 @@ Me chamo Michele Barreto,👧🏽
 💪🏽"O homem não teria alcançado o possivel, se repetidas vezes não tivesse tentado o impossivel".
 
 
-🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹
