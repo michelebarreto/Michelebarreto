@@ -1,6 +1,6 @@
 🌍Hello world,
 
-Me chamo Michele Barreto,
+Me chamo Michele Barreto,👧🏽
 
 👩‍🎓Atualmente  estou estudando, e muito ..
 
@@ -9,7 +9,4 @@ Me chamo Michele Barreto,
 💪🏽"O homem não teria alcançado o possivel, se repetidas vezes não tivesse tentado o impossivel".
 
 
-<! - ** michelebarreto / Michelebarreto ** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
-
-
--->
+🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹
