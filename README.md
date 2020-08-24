@@ -1,6 +1,6 @@
 🌍Hello world,
 
-Me chamo Michele Barreto,👧🏽quero ser uma  Front End  de sucesso!
+Me chamo Michele Barreto,👧🏽quero ser  uma  excelente profissional Front End.
 
 👩 ‍ 🎓Atualmente estou estudando, e muito ..
 👩🏽‍💻Me aperfeiçoando a cada dia no HTML, CSS, JavaScript e Phyton 
