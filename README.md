@@ -13,16 +13,27 @@ Trabalhei na área administrativa há alguns anos e agora descidi viver minhas p
 Cursos de aperfeiçoamento  📘 💾
 
 Programador de Software Bootcamp (IGTI)
+
 Desenvolvedor Front-end  Bootcamp (IGTI - em andamento)
+
 Lógica de Programação (Senai)
+
 JavaScript
+
 CSS3
+
 HTML5
+
 TypeScript
+
 NodeJS
+
 Reagir
+
 Bootstrap
+
 Git / GitHub
+
 Scrum
 
 
