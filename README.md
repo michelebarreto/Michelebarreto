@@ -22,6 +22,9 @@ Cursos de aperfeiçoamento  📘 💾
 * TypeScript
 * NodeJS
 * Reagir
+*Python
+*Angular
+*Vue
 * Bootstrap
 * Git / GitHub
 * Scrum
