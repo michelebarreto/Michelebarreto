@@ -21,7 +21,7 @@ Cursos de aperfeiçoamento  📘 💾
 * HTML5
 * TypeScript
 * NodeJS
-* Reagir
+* React
 *Python
 *Angular
 *Vue
