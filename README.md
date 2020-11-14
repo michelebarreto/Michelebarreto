@@ -6,7 +6,7 @@ Sobre mim 👩🏽‍🎓
 
 👩🏽‍💻Atualmente estou estudando, e muito ..
 
-Trabalhei na área administrativa por muitos anos e agora descidi viver minhas paixões, há tecnologia, faço faculdade de Análise de Sistema e encantada com o desenvolvedor web.
+Trabalhei na área administrativa por muitos anos e agora descidi viver minhas paixões, há tecnologia, formada em Análise e Desenvolvimento de Sistema e encantada com o desenvolvedor web.
 
 👩‍💻 Talvez meu git, não esteja ainda tão recheado o quanto você queria, mas, tem aprendizado que não cabe em um Git 🥰
 
