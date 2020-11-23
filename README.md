@@ -10,6 +10,8 @@ Trabalhei na área administrativa por muitos anos e agora descidi viver minhas p
 
 👩‍💻 Talvez meu git, não esteja ainda tão recheado o quanto você queria, mas, tem aprendizado que não cabe em um Git 🥰
 
+👩‍💻Meu portifólio : https://portifolio-michelebarreto.netlify.app/
+
 Cursos de aperfeiçoamento  📘 💾
 
 * Programador de Software Bootcamp (IGTI)
