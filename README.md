@@ -15,7 +15,7 @@ Trabalhei na área administrativa por muitos anos e agora descidi viver minhas p
 Cursos de aperfeiçoamento  📘 💾
 
 * Programador de Software Bootcamp (IGTI)
-* Desenvolvedor Front-end  Bootcamp (IGTI - em andamento)
+* Desenvolvedor Front-end  Bootcamp (IGTI)
 * Bootcamp Front-end {REPROGRAMA}
 * Lógica de Programação (Senai)
 * JavaScript
