@@ -20,6 +20,8 @@ Meus Skills
 <img src= "https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" alt="javascript" width="50" height="50" style="max-width:100%"></img>
 <img src= "https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="max-width:100%"></img>
 <img src= "https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" style="max-width:100%"></img>
+<img src= "https://devicon.dev/devicon.git/icons/git/git-plain.svg" alt="git" width="50" height="50" style="max-width:100%"></img>
+
 
 Cursos de aperfeiçoamento  📘 💾
 * Programador de Software Bootcamp (IGTI)
@@ -34,8 +36,11 @@ Cursos de aperfeiçoamento  📘 💾
 * Git / GitHub
 * Scrum
 
-[! [Top Linguagens](https://github-readme-stats.vercel.app/api ? Username = michelebarreto)](https://github.com/michelebarreto/github-readme-stats)
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelebarreto&layout=compact&theme=radical)](https://github.com/michelebarreto/github-readme-stats)
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=michelebarreto&show_icons=true&theme=dracula"> 
+ </p>
 
 
 
