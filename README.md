@@ -39,7 +39,7 @@ Cursos de aperfeiçoamento  📘 💾
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelebarreto&layout=compact&theme=radical)](https://github.com/michelebarreto/github-readme-stats)
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=michelebarreto&show_icons=true&theme=dracula"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=michelebarreto&show_icons=true&theme=radical"> 
  </p>
 
 
