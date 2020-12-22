@@ -11,7 +11,7 @@ Atualmente sou graduada em Análise de Sistema e tenho me especializado na progr
 
 👩‍💻 Talvez meu git, não esteja ainda tão recheado o quanto você queria, mas, tem aprendizado que não cabe em um Git 🥰
 
-👩‍💻Meu portifólio : https://portifoliomichelebarreto-frontend.netlify.app/
+
 
 Meus Skills
 
