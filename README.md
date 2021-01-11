@@ -15,12 +15,15 @@ Atualmente sou graduada em Análise de Sistema e tenho me especializado na progr
 
 Meus Skills
 
-<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50" style="max-width:100%"></img>
-<img src= "https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50" style="max-width:100%"></img>
-<img src= "https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" alt="javascript" width="50" height="50" style="max-width:100%"></img>
-<img src= "https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="max-width:100%"></img>
-<img src= "https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" style="max-width:100%"></img>
-<img src= "https://devicon.dev/devicon.git/icons/git/git-plain.svg" alt="git" width="50" height="50" style="max-width:100%"></img>
+<img src="https://icongr.am/devicon/css3-original.svg?size=125&color=currentColor" alt="css" width="50" height="50" style="max-width:100%"></img>
+<img src= "https://icongr.am/devicon/html5-original-wordmark.svg?size=125&color=currentColor" alt="html" width="50" height="50" style="max-width:100%"></img>
+<img src= "https://icongr.am/devicon/javascript-original.svg?size=125&color=currentColor" alt="javascript" width="50" height="50" style="max-width:100%"></img>
+<img src= "https://icongr.am/devicon/react-original-wordmark.svg?size=125&color=currentColor" alt="react" width="50" height="50" style="max-width:100%"></img>
+<img src= "https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=125&color=c809e1" alt="bootstrap" width="50" height="50" style="max-width:100%"></img>
+<img src= "https://icongr.am/devicon/jquery-plain-wordmark.svg?size=125&color=0312e2" alt="jquery" width="50" height="50" style="max-width:100%"></img>
+<img src= "https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=125&color=0312e2" alt="node" width="50" height="50" style="max-width:100%"></img>
+<img src= "https://icongr.am/devicon/git-plain.svg?size=125&color=750800" width="50" height="50" style="max-width:100%"></img>
+<img src= "https://icongr.am/devicon/mysql-original-wordmark.svg?size=125&color=0312e2" width="50" height="50" style="max-width:100%"></img>
 
 
 Cursos de aperfeiçoamento  📘 💾
