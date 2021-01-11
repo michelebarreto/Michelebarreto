@@ -21,7 +21,7 @@ Meus Skills
 <img src= "https://icongr.am/devicon/react-original-wordmark.svg?size=125&color=currentColor" alt="react" width="50" height="50" style="max-width:100%"></img>
 <img src= "https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=125&color=c809e1" alt="bootstrap" width="50" height="50" style="max-width:100%"></img>
 <img src= "https://icongr.am/devicon/jquery-plain-wordmark.svg?size=125&color=0312e2" alt="jquery" width="50" height="50" style="max-width:100%"></img>
-<img src= "https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=125&color=0312e2" alt="node" width="50" height="50" style="max-width:100%"></img>
+<img src= "https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=125&color=f9f6f6" alt="node" width="50" height="50" style="max-width:100%"></img>
 <img src= "https://icongr.am/devicon/git-plain.svg?size=125&color=750800" width="50" height="50" style="max-width:100%"></img>
 <img src= "https://icongr.am/devicon/mysql-original-wordmark.svg?size=125&color=0312e2" width="50" height="50" style="max-width:100%"></img>
 
